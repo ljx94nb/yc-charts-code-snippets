@@ -1,0 +1,38 @@
+{
+  "name": "yc-charts-code-snippets",
+  "displayName": "yc-charts-code-snippets",
+  "description": "",
+  "version": "0.0.1",
+  "publisher": "yuanchen-ljx",
+  "engines": {
+    "vscode": "^1.56.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "javascript",
+        "path": "./snippets/snippets.code-snippets"
+      },
+      {
+        "language": "javascriptreact",
+        "path": "./snippets/snippets.code-snippets"
+      },
+      {
+        "language": "typescript",
+        "path": "./snippets/snippets.code-snippets"
+      },
+      {
+        "language": "typescriptreact",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ljx94nb/yc-charts-code-snippets.git"
+  },
+  "homepage": "https://github.com/ljx94nb/yc-charts-code-snippets/blob/master/README.md"
+}
